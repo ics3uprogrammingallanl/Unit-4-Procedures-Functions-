@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\bin\Debug\TempConverterAllanL.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\bin\Debug\TempConverterAllanL.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\bin\Debug\TempConverterAllanL.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\obj\Debug\TempConverterAllanL.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\obj\Debug\TempConverterAllanL.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\obj\Debug\TempConverterAllanL.frmTempConverter.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\obj\Debug\TempConverterAllanL.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\obj\Debug\TempConverterAllanL.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Leveille, Allan\Unit 4 (Procedures & Functions)\TempConverterAllanL\TempConverterAllanL\obj\Debug\TempConverterAllanL.pdb
