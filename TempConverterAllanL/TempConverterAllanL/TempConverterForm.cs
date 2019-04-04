@@ -1,4 +1,9 @@
-﻿
+﻿/*
+ * Created by: Allan Leveille
+ * Created on: April 4, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #28 - Temperature Converter
+*/
 
 using System;
 using System.Collections.Generic;
