@@ -33,7 +33,7 @@ namespace TempConverterAllanL
             fahrenheit = ((double)(9) / (double)(5)) * celsius + 32;
 
             //Display the answer
-            MessageBox.Show(celsius + " celsius is " + fahrenheit + " in fahrenheit.", "Celsius to Fahrenheit");
+            MessageBox.Show(celsius + " degrees Celsius is " + fahrenheit + " in Fahrenheit.", "Celsius to Fahrenheit");
         }
 
         private void btnConverter_Click(object sender, EventArgs e)
